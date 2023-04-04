@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+/src/main/java/hello/hellospring/service/
+/src/main/java/hello/hellospring/repository/
+/src/main/java/hello/hellospring/domain/
+/src/main/java/hello/hellospring/controller/
